@@ -48,8 +48,7 @@ h1:hover{
     align-items: center;
 }
 #dogImage>img{
-    max-width: 60%;
-    height:auto;
+    height: 250px;
     margin:3rem;
 
 }
@@ -91,6 +90,7 @@ h1:hover{
     }
     #dogImage>img{
         max-width: 75%;
+        height: auto;
     }
     
 }
@@ -112,6 +112,7 @@ h1:hover{
     }
     #dogImage>img{
         max-width: 90%;
+        height: auto;
     }
     
 }
